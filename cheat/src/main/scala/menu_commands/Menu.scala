@@ -45,10 +45,10 @@ object Menu {
     exitGame = false
     Deck.inITrand
     PlayerOrder.inIT
-    SetStrat(PlayerOrder(0), 3)
-    SetStrat(PlayerOrder(1), 2)
-    SetStrat(PlayerOrder(2), 3)
-    SetStrat(PlayerOrder(3), 4)
+    SetStrat(PlayerOrder(0), 1)
+    SetStrat(PlayerOrder(1), 1)
+    SetStrat(PlayerOrder(2), 1)
+    SetStrat(PlayerOrder(3), 1)
     Discard.inIT
     CountCard.inIT
     var result = Board.show

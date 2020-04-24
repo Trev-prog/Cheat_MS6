@@ -1,4 +1,6 @@
-Game Rules:
+#Welcome to Cheat!
+
+##Game Rules:
 
 Cheat is a four-player card game in which each player seeks to dispose all but one of his/her cards.
 Equipment:
@@ -19,5 +21,3 @@ A player wins by getting rid of all the cards before everyone else or having lea
 
 Strategies:
 
-A player may strategize according to how risky/safe that player intends to be.
-One strategy would be to call "cheat" nearly everything. Another more prudent strategy would be to call "cheat" only when a player hesitates to put down a card. Another strategy would be to only call "cheat" 25% of the time when a player has 5 or less cards remaining (or insert other numbers to alter the risk of the "cheat" call). Another strategy would be to never call unless it would mean that a player is guaranteed to win if you do not call.
