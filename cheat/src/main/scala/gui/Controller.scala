@@ -9,6 +9,11 @@ import scala.collection.mutable.ArrayBuffer
 import java.awt.image.BufferedImage
 import scala.swing.Orientation
 
+/** A class which defines events' occurances for various user commands.
+  *
+  * @constructor creates a class for which can define GUI actions at user commands.
+  */
+
 class Controller(view: View, model: Model) {
 
   def showGameArea = Action("Show Game Area") {

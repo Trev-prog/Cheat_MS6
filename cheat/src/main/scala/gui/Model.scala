@@ -1,5 +1,11 @@
 package gui
 import menu_commands._
+
+/** A class which defines the logic for what is used in the GUI.
+  *
+  * @constructor creates a class which can declare functions and variables to be used in the GUI.
+  */
+
 class Model {
   def getBoard:String = Menu.showGameArea
   def advance:Unit = PlayerOrder.advance

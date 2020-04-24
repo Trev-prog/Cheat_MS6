@@ -12,6 +12,11 @@ import java.awt.image.BufferedImage
 import scala.swing.Orientation
 import java.awt.Graphics2D
 
+/** A class which defines what the user will actually see.
+  *
+  * @constructor creates a class for which can define GUI output.
+  */
+
 class View extends MainFrame {
 
   var _controller : Option[Controller] = None

@@ -1,6 +1,13 @@
 package menu_commands
 import scala.collection.mutable.ListBuffer
 
+/** A player in the game.
+  *
+  * @constructor creates a new player with a name and age.
+  * @param name the player's name
+  * @param num the player's aggression level for strategy 
+  */
+
 class Player (val num : Int, val name : String) {
   
   var howAgress = 1

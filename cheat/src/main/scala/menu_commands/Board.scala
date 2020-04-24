@@ -1,6 +1,11 @@
 package menu_commands
 
 //******* BOARD *******
+/** A board for when this game is run with text display. It is primarily used for testing purposes.
+  *
+  * @constructor returns a string which is a board, this is only for text display purposes.
+  */
+
 object Board {
 
 

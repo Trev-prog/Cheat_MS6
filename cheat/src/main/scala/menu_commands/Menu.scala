@@ -3,7 +3,8 @@ import scala.util.control.Breaks._
 import scala.util.Random
 import scala.collection.mutable.ArrayBuffer
 
-
+/** The menu is where all functionality for the GUI is pulled from. 
+  */
 
 object Menu {
     
@@ -120,7 +121,7 @@ var bluffFLAG = false
       
       else if (PlayerOrder.head.howAgress == 4){ //never bluffs calls 30%
         
-        if (odds > .7){
+        if (odds > .5){
           //bluffMode = true
           if (PlayerOrder.previous.bluffer == true) {
             PlayerOrder.previous.bluffCalled

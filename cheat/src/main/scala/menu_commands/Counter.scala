@@ -1,5 +1,10 @@
 package menu_commands
 
+/** A counter created with a queue
+  *
+  * @constructor creates an object which keeps track of what card number is required to be played without bluffing
+  */
+
 object CountCard extends scala.collection.mutable.Queue[Int] {
 
 def inIT{

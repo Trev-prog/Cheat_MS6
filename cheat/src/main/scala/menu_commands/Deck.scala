@@ -5,6 +5,11 @@ import java.util.Arrays
 import collection.mutable.ArrayBuffer
 
 
+/** A deck to deal at cards with at the start of the game, made from an arraybuffer.
+  *
+  * @constructor creates an object deck which holds cards
+  */
+
 object Deck extends scala.collection.mutable.ArrayBuffer[Card] {
 
 def shuffle(a: Int, b: Int) {

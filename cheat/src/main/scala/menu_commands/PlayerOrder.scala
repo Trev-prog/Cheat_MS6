@@ -1,6 +1,11 @@
 package menu_commands
 import scala.collection.mutable.ArrayBuffer
 
+/** A queue which holds the players in the game.
+  *
+  * @constructor creates an object playerorder which is a queue which rotates through the players in accordance with whose turn it is.
+  */
+
 //******* PLAYER_ORDER *******
 object PlayerOrder extends scala.collection.mutable.Queue[Player] {
 

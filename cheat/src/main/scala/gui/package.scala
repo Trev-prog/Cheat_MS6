@@ -1,5 +1,10 @@
 package gui
 
+/** Kicks of the GUI
+  *
+  * @constructor creates a class which initiates the GUI.
+  */
+
 object gui{
   def main(args: Array[String]): Unit = {
 
