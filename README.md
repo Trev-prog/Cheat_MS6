@@ -19,6 +19,12 @@ A player can announce "cheat" in which he/she reveals the card that the previous
 ## Objective:
 A player wins by getting rid of all the cards before everyone else or having least number of cards after 100 turns.
 
+## Open Design and Citations
+
+I would like to thank Harry Hernberg and TJ Bordeaux for their assistance in providing me with code from their crazy-eights project.
+
+Citation: After speaking with CDT Hernberg over a Teams call, CDT Hernberg showed me much of his code from View, Model, and Controller. I copied and pasted some of it, particularly the GUI portion focusing on displaying the cards. I then edited it significantly to fit the needs of my own game. Additionally, CDT Hernberg assisted me by explaining how his overall GUI worked and how to add GUI functionality.
+
 ## Strategies:
 
 There are four strategy options:
