@@ -1,0 +1,85 @@
+[debug] Packaging C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\cheat_2.12-0.3.0.jar ...
+[debug] Input file mappings:
+[debug] 	
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes
+[debug] 	gui
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\gui
+[debug] 	gui\Controller.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\gui\Controller.class
+[debug] 	gui\gui$.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\gui\gui$.class
+[debug] 	gui\gui.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\gui\gui.class
+[debug] 	gui\Model.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\gui\Model.class
+[debug] 	gui\View$$anon$1.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\gui\View$$anon$1.class
+[debug] 	gui\View$$anon$11$$anon$2.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\gui\View$$anon$11$$anon$2.class
+[debug] 	gui\View$$anon$11$$anon$3.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\gui\View$$anon$11$$anon$3.class
+[debug] 	gui\View$$anon$11$$anon$4.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\gui\View$$anon$11$$anon$4.class
+[debug] 	gui\View$$anon$11$$anon$5.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\gui\View$$anon$11$$anon$5.class
+[debug] 	gui\View$$anon$11$$anon$6$$anon$10.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\gui\View$$anon$11$$anon$6$$anon$10.class
+[debug] 	gui\View$$anon$11$$anon$6$$anon$7.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\gui\View$$anon$11$$anon$6$$anon$7.class
+[debug] 	gui\View$$anon$11$$anon$6$$anon$8.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\gui\View$$anon$11$$anon$6$$anon$8.class
+[debug] 	gui\View$$anon$11$$anon$6$$anon$9.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\gui\View$$anon$11$$anon$6$$anon$9.class
+[debug] 	gui\View$$anon$11$$anon$6.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\gui\View$$anon$11$$anon$6.class
+[debug] 	gui\View$$anon$11.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\gui\View$$anon$11.class
+[debug] 	gui\View$$anon$12.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\gui\View$$anon$12.class
+[debug] 	gui\View$CardPanel.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\gui\View$CardPanel.class
+[debug] 	gui\View$cardSpaces$.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\gui\View$cardSpaces$.class
+[debug] 	gui\View$discard$.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\gui\View$discard$.class
+[debug] 	gui\View$gameArea$.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\gui\View$gameArea$.class
+[debug] 	gui\View$middle$.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\gui\View$middle$.class
+[debug] 	gui\View$playArea$.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\gui\View$playArea$.class
+[debug] 	gui\View$PlayerHandPanel.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\gui\View$PlayerHandPanel.class
+[debug] 	gui\View.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\gui\View.class
+[debug] 	menu_commands
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\menu_commands
+[debug] 	menu_commands\Board$.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\menu_commands\Board$.class
+[debug] 	menu_commands\Board.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\menu_commands\Board.class
+[debug] 	menu_commands\Card.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\menu_commands\Card.class
+[debug] 	menu_commands\CountCard$.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\menu_commands\CountCard$.class
+[debug] 	menu_commands\CountCard.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\menu_commands\CountCard.class
+[debug] 	menu_commands\Deck$.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\menu_commands\Deck$.class
+[debug] 	menu_commands\Deck.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\menu_commands\Deck.class
+[debug] 	menu_commands\Discard$.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\menu_commands\Discard$.class
+[debug] 	menu_commands\Discard.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\menu_commands\Discard.class
+[debug] 	menu_commands\Menu$.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\menu_commands\Menu$.class
+[debug] 	menu_commands\Menu.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\menu_commands\Menu.class
+[debug] 	menu_commands\Player.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\menu_commands\Player.class
+[debug] 	menu_commands\PlayerOrder$.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\menu_commands\PlayerOrder$.class
+[debug] 	menu_commands\PlayerOrder.class
+[debug] 	  C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\classes\menu_commands\PlayerOrder.class
+[debug] Done packaging.

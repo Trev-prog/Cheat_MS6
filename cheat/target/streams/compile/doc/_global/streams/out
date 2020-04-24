@@ -1,0 +1,22 @@
+[info] Main Scala API documentation to C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\api...
+[debug] Getting org.scala-sbt:compiler-bridge_2.12:1.3.2:compile for Scala 2.12.3
+[debug] Calling Scaladoc with arguments:
+[debug] 	-d
+[debug] 	C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\target\scala-2.12\api
+[debug] 	-bootclasspath
+[debug] 	C:\Program Files\Java\jre1.8.0_251\lib\resources.jar;C:\Program Files\Java\jre1.8.0_251\lib\rt.jar;C:\Program Files\Java\jre1.8.0_251\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_251\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_251\lib\jce.jar;C:\Program Files\Java\jre1.8.0_251\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_251\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_251\classes;C:\Users\Trevor\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.12.3\scala-library-2.12.3.jar
+[debug] 	-classpath
+[debug] 	C:\Users\Trevor\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\modules\scala-swing_2.12\2.0.0-M2\scala-swing_2.12-2.0.0-M2.jar
+[debug] 	C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\src\main\scala\gui\Controller.scala
+[debug] 	C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\src\main\scala\gui\Model.scala
+[debug] 	C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\src\main\scala\gui\View.scala
+[debug] 	C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\src\main\scala\gui\package.scala
+[debug] 	C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\src\main\scala\menu_commands\Board.scala
+[debug] 	C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\src\main\scala\menu_commands\Card.scala
+[debug] 	C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\src\main\scala\menu_commands\Counter.scala
+[debug] 	C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\src\main\scala\menu_commands\Deck.scala
+[debug] 	C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\src\main\scala\menu_commands\Discard.scala
+[debug] 	C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\src\main\scala\menu_commands\Menu.scala
+[debug] 	C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\src\main\scala\menu_commands\Player.scala
+[debug] 	C:\Users\Trevor\Documents\Final MS6\Cheat_MS6\cheat\src\main\scala\menu_commands\PlayerOrder.scala
+[info] Main Scala API documentation successful.
