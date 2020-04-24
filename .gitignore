@@ -1,0 +1,9 @@
+cheat/.settings
+cheat/bin
+cheat/project
+cheat/target
+cheat/.cache*
+cheat/.classpath
+cheat/.project
+cheat/.metadata
+cheat/.idea
