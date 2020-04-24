@@ -1,6 +1,6 @@
 #Welcome to Cheat!
 
-##Game Rules:
+Game Rules:
 
 Cheat is a four-player card game in which each player seeks to dispose all but one of his/her cards.
 Equipment:
