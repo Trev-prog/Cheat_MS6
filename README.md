@@ -35,6 +35,8 @@ This player bluffs 30% of the time and calls 30% of the time.
 Level 4: Extremely aggressive
 This player never bluffs but calls 50% of the time.
 
+*Note that all players are initialized to Level 1.
+
 ## Fail-Safe Attributes
 
 If the user selects Do Move, Turn, or Game without first initializing the game, the game will automatically initialize without random and carry out the user's command.
