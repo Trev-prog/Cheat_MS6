@@ -39,6 +39,11 @@ This player never bluffs but calls 50% of the time.
 
 If the user selects Do Move, Turn, or Game without first initializing the game, the game will automatically initialize without random and carry out the user's command.
 
+## Scala Doc
+
+To find the html to the Scala Doc for this project, go to the following directory:
+Cheat_MS6/cheat/target/scala-2.12/api/index.html
+
 ## Open Design and Citations
 
 I would like to thank Harry Hernberg and TJ Bordeaux for their assistance in providing me with code from their crazy-eights project.
